@@ -207,13 +207,13 @@
       <div class="card">
         <h3>Opening Hours</h3>
         <ul>
-          <li><span>Monday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Tuesday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Wednesday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Thursday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Friday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Saturday</span> <b>10:00 – 21:00</b></li>
-          <li><span>Sunday</span> <b>10:00 – 21:00</b></li>
+          <li><span>Monday</span> <b>10:00 – 23:00</b></li>
+          <li><span>Tuesday</span> <b>10:00 – 23:00</b></li>
+          <li><span>Wednesday</span> <b>10:00 – 23:00</b></li>
+          <li><span>Thursday</span> <b>10:00 – 23:00</b></li>
+          <li><span>Friday</span> <b>15:00 – 23:00</b></li>
+          <li><span>Saturday</span> <b>10:00 – 23:00</b></li>
+          <li><span>Sunday</span> <b>10:00 – 23:00</b></li>
         </ul>
       </div>
     </div>
@@ -342,16 +342,16 @@
       </div>
       <div class="contact-item">
         <div class="label">Phone</div>
-        <div class="value"><a href="tel:+601128597372">+60 11-2859 7372</a></div>
+        <div class="value"><a href="tel:‪+601119986186‬">‪+60 11‑1998 6186‬</a></div>
       </div>
       <div class="contact-item">
         <div class="label">Hours</div>
-        <div class="value">Open daily from 10:00</div>
+        <div class="value">Open daily from 10:00-23:00 (Friday 15:00-23:00) </div>
       </div>
     </div>
     <div class="social">
-      <a class="btn ghost" href="https://www.instagram.com/blackpanther_barbershops/" target="_blank" rel="noopener">Instagram</a>
-      <a class="btn ghost" href="https://www.tiktok.com/@bpsbarbershop" target="_blank" rel="noopener">TikTok</a>
+      <a class="btn ghost" href="[https://www.instagram.com/blackpanther_barbershops](https://www.tiktok.com/@boy.blackpanther?_r=1&_t=ZS-9AfIFTFMSsn)/" target="_blank" rel="noopener">Instagram</a>
+      <a class="btn ghost" href="[https://www.tiktok.com/@bpsbarbershop](https://www.instagram.com/boy.blackpanther01?srtk=dGw4bjBlbGhkc3E0)" target="_blank" rel="noopener">TikTok</a>
       <a class="btn ghost" href="https://www.google.com/search?q=black+panther+barbershop+johor+bahru" target="_blank" rel="noopener">Reviews on Google</a>
     </div>
   </div>
@@ -374,10 +374,10 @@
   ];
   const BARBERS = [
     { id: 'any',   name: 'Any available barber', desc: 'Fastest slot' },
-    { id: 'b1',    name: 'Barber 1',              desc: 'Fades and designs' },
-    { id: 'b2',    name: 'Barber 2',              desc: 'Classic cuts and beards' },
+    { id: 'b1',    name: 'Aiman',              desc: 'Fades and designs' },
+    { id: 'b2',    name: 'Mael',              desc: 'Classic cuts and beards' },
   ];
-  const OPEN_HOUR = 10, CLOSE_HOUR = 21, SLOT_STEP = 30; // minutes
+  const OPEN_HOUR = 10, CLOSE_HOUR = 23, SLOT_STEP = 30; // minutes
   const DAYS_AHEAD = 14;
   const STORAGE_KEY = 'bpb_bookings_v1';
 
