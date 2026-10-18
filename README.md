@@ -359,7 +359,8 @@
 
 <footer>
   <div class="container">
-    © 2026 Black Panther Barbershop · Batu 17, Kampung Tenang, Johor Bahru
+    © 2026 BlackPanther Barbershop · Batu 17, Kampung Tenang, Johor Bahru, Malaysia
+    Supported by HAAQ Pte Ltd
   </div>
 </footer>
 
