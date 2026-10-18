@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Black Panther Barbershop</title>
+<title>BlackPanther Barbershop</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -184,7 +184,7 @@
 
 <header class="hero" id="top">
   <div class="container">
-    <div class="rating">★★★★½ &nbsp;4.5 from 11 Google reviews</div>
+    <div class="rating">★★★★½ &nbsp;4.5 from Google reviews</div>
     <h1>Sharp cuts.<br><span>Every visit.</span></h1>
     <p>Barbershop in Johor Bahru, Malaysia. Walk in or book your chair ahead of time.</p>
     <a href="#book" class="btn">Book an Appointment</a>
@@ -194,11 +194,11 @@
 <section id="about">
   <div class="container">
     <h2 class="section-title">About the Shop</h2>
-    <p class="section-sub">Black Panther Barbershop serves Johor Bahru with precise fades, clean lines and a relaxed chair.</p>
+    <p class="section-sub">BlackPanther Barbershop serves Johor Bahru with precise fades, clean lines and a relaxed chair.</p>
     <div class="info-grid">
       <div class="card">
         <h3>Rated Well</h3>
-        <p>Averages 4.5 stars across 11 Google reviews from local clients.</p>
+        <p>Averages 4.5 stars across Google reviews from local clients.</p>
       </div>
       <div class="card">
         <h3>Find Us</h3>
@@ -207,13 +207,13 @@
       <div class="card">
         <h3>Opening Hours</h3>
         <ul>
-          <li><span>Monday</span> <b>10:00 – 23:00</b></li>
-          <li><span>Tuesday</span> <b>10:00 – 23:00</b></li>
-          <li><span>Wednesday</span> <b>10:00 – 23:00</b></li>
-          <li><span>Thursday</span> <b>10:00 – 23:00</b></li>
-          <li><span>Friday</span> <b>15:00 – 23:00</b></li>
-          <li><span>Saturday</span> <b>10:00 – 23:00</b></li>
-          <li><span>Sunday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Monday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Tuesday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Wednesday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Thursday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Friday</span> <b>15:00 – 23:00</b></li>
+        <li><span>Saturday</span> <b>10:00 – 23:00</b></li>
+        <li><span>Sunday</span> <b>10:00 – 23:00</b></li>
         </ul>
       </div>
     </div>
@@ -223,7 +223,7 @@
 <section id="services">
   <div class="container">
     <h2 class="section-title">Services</h2>
-    <p class="section-sub">Prices are placeholders, so update them to match the shop's current rates.</p>
+    <p class="section-sub">Every great look starts with the right service. Explore our curated grooming offerings and let our skilled barbers craft a style tailored to you.</p>
     <div class="info-grid">
       <div class="card">
         <h3>Haircut</h3>
@@ -360,7 +360,7 @@
 <footer>
   <div class="container">
     © 2026 BlackPanther Barbershop · Batu 17, Kampung Tenang, Johor Bahru, Malaysia
-    Supported by HAAQ Pte Ltd
+    · Supported by HAAQ Pte Ltd, Singapore
   </div>
 </footer>
 
