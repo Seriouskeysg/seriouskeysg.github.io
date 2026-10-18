@@ -1,5 +1,3 @@
-[BLACKPANTHERBARBERSHOP index.html](https://github.com/user-attachments/files/33635147/BLACKPANTHERBARBERSHOP.index.html)
-<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
