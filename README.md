@@ -350,8 +350,8 @@
       </div>
     </div>
     <div class="social">
-      <a class="btn ghost" href="[https://www.instagram.com/blackpanther_barbershops](https://www.tiktok.com/@boy.blackpanther?_r=1&_t=ZS-9AfIFTFMSsn)/" target="_blank" rel="noopener">Instagram</a>
-      <a class="btn ghost" href="[https://www.tiktok.com/@bpsbarbershop](https://www.instagram.com/boy.blackpanther01?srtk=dGw4bjBlbGhkc3E0)" target="_blank" rel="noopener">TikTok</a>
+      <a class="btn ghost" href="[https://www.instagram.com/blackpanther_barbershops](https://www.tiktok.com/@boy.blackpanther" target="_blank" rel="noopener">Instagram</a>
+      <a class="btn ghost" href="[https://www.tiktok.com/@bpsbarbershop](https://www.instagram.com/boy.blackpanther01" target="_blank" rel="noopener">TikTok</a>
       <a class="btn ghost" href="https://www.google.com/search?q=black+panther+barbershop+johor+bahru" target="_blank" rel="noopener">Reviews on Google</a>
     </div>
   </div>
