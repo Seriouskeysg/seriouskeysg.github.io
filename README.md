@@ -360,7 +360,7 @@
 <footer>
   <div class="container">
     © 2026 BlackPanther Barbershop · Batu 17, Kampung Tenang, Johor Bahru, Malaysia
-    · Supported by HAAQ Pte Ltd, Singapore
+    · Supported by Sicutsapp, Singapore
   </div>
 </footer>
 
